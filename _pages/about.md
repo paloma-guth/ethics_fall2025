@@ -1,27 +1,26 @@
 ---
 permalink: /
-title: "[Name] Computes Ethics" #update to your name
+title: "Paloma Guth Kronbauer" #update to your name
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This page is meant for you to showcase your case study, podcasts, and blog posts reflecting on our readings. You will need to update the content in each section and submit your site to Moodle (see calendar). Once all sections are updated, revise this paragraph so it summarizes the purpose of your site for new visitors. This can include how to navigate it, what each section contains, and what someone should understand about your work just by reading this introduction.
+This site brings together my projects, reflections, and work from this course (CSCI 263). Feel free to explore the sections using the menu above.
 
 
 About Me
 ---
-My name is [First Last]. I’m a [Computer Science] student in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my [B.S] in [majors]. You can also talk about internships you've had [if applicable]
+My name is Paloma. I’m a Computer Science and Mathematics student in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my B.A in Computer Science and Mathematics with a concentration in Statistics & Data Science. 
 
 Research 
 ---
-What topics are you currently interested in researching, or have already done in your major studies.
-What topics are you interested in learning about regarding ethics.
+Over my academic years, I’ve worked on several projects in data collection and cleaning using R and Python. I also contributed to a machine learning project for image generation with CUDA [Graffiti Generator](https://medium.com/@mhollis_2953/graffiti-generator-d832258e1a2c). More recently, I spent the summer working on a project in Python and Julia focused on data collection, cleaning, and statistical analysis (I’ll be sharing the GitHub link once the Julia portion is complete). My interests for future researches are in machine learning but more focused on the backend side—including memory allocation, optimization, data pipelines, and data engineering.
+
+As for topics in Ethics I’m interested in the broader implications of generative AI, like why and how access is made available to the general public, and what kinds of economic or social effects that might create. I would also like to learn more about the environmental impact of data centers and the trade-offs involved in supporting such large-scale systems.
 
 Personal Life
 ---
-Update to give a little background on you and your interests.
+I’m originally from Brazil and have had the chance to live in four countries so far: Brazil, the Netherlands (at UWC Maastricht), the United States (at St. Olaf College), and Denmark. Outside of academics, I’m an older sister and a cat owner (I have a chunky gray cat called Elliot). I love reading fantasy and playing RPGs, both tabletop like Dungeons & Dragons and video games. I’m also into puzzle games and cozy games like Stardew Valley.  Cooking is another hobby of mine as I especially enjoy trying out Asian recipes, even if the results, frquently, doesn't turn out as expected.
 
-
-For more info on editing this page: configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.

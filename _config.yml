@@ -23,13 +23,13 @@ repository               : "https://paloma-guth.github.io/ethics_fall2025"
 author:
   # Biographic information
   avatar           : "profile3.png"
-  name             : "Paloma Guth Kronbauer" #update
+  name             : "Paloma Guth Kronbauer"
   pronouns         : "she/her"  
   bio              : "Short biography for the left hand sidebar"
   employer         : # when available
   uri              : # URL
-  email            : guthkr1@stolaf.edu" #update
-  linkedin         : paloma-guth-kronbauer-180237301
+  email            : guthkr1@stolaf.edu"
+  linkedin         : paloma-guth-kronbauer #fix later
 
   # links
   academia         : # URL

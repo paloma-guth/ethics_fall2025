@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This site brings together my projects, reflections, and work from this course (CSCI 263). Feel free to explore the sections using the menu above.
+This site brings together my projects, reflections, and work from this course (CSCI 263).
 
 
 About Me
@@ -16,7 +16,7 @@ My name is Paloma. I’m a Computer Science and Mathematics student in the [Math
 
 Research 
 ---
-Over my academic years, I’ve worked on several projects in data collection and cleaning using R and Python. I also contributed to a machine learning project for image generation with CUDA [Graffiti Generator](https://medium.com/@mhollis_2953/graffiti-generator-d832258e1a2c). More recently, I spent the summer working on a project in Python and Julia focused on data collection, cleaning, and statistical analysis (GitHub link when the statistical analysis in Julia is complete). My interests for future researches are in machine learning but more focused on the backend side, such as memory allocation, optimization, data pipelines, and data engineering.
+Throughout my years at college, I’ve worked on several projects in data collection and cleaning using R and Python. I also contributed to a machine learning project for image generation with CUDA [Graffiti Generator](https://medium.com/@mhollis_2953/graffiti-generator-d832258e1a2c). More recently, I spent the summer working on a project in Python and Julia focused on data collection, cleaning, and statistical analysis (GitHub link when the statistical analysis in Julia is complete). My interests for future researches are in machine learning but more focused on the backend side, such as optimization, data pipelines, and data engineering.
 
 As for topics in Ethics I’m interested in the broader implications of generative AI, like why and how access is made available to the general public, and what kinds of economic or social effects that might create. I would also like to learn more about the environmental impact of data centers and the trade-offs involved in supporting such large-scale systems.
 

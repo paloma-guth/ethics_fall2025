@@ -26,4 +26,4 @@ You can listen to the discussion in the video/audio, and if you prefer reading, 
 - **Winnie the Pooh & Virtue** 
 - **Geralt of Rivia & Duty**
 
-<a href="/files/audioTranscript_podcast1.pdf" download>Download Podcast Audio Transcript</a>
+[Download Podcast Audio Transcript](https://drive.google.com/file/d/1_1dsSj1vfo1BhZwIC4liVoxUuC1ITdPC/view?usp=sharing)

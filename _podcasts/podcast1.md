@@ -26,4 +26,4 @@ You can listen to the discussion in the video/audio, and if you prefer reading, 
 - **Winnie the Pooh & Virtue** 
 - **Geralt of Rivia & Duty**
 
-[Download Podcast Audio Transcript](ethics_fall2025/files/audioTranscript_podcast1.pdf)
+[Download Podcast Audio Transcript](/files/audioTranscript_podcast1.pdf)

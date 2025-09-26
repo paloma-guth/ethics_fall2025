@@ -5,8 +5,8 @@ permalink: /podcasts/podcast1
 excerpt: "Let's chat about ethical frameworks for six different character and public figures"
 date: 2025-09-25
 audio: ethics_fall2025/files/Fitian_Guth_podcast1.mp3
-video: ethics_fall2025/files/Fitian_Guth_video_podcast1.mp3
-pdf: ethics_fall2025/files/audioTranscript_podcast1.mp3
+video: ethics_fall2025/files/Fitian_Guth_video_podcast1.mp4
+pdf: ethics_fall2025/files/audioTranscript_podcast1.pdf
 ---
 Ethical Frameworks and Characters
 ---

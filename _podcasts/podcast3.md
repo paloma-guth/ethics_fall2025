@@ -14,8 +14,8 @@ In this episode, we talked about how digital ownership has changed over the year
 
 Below, you can view one of our data visualizations based on the research data we got, as well as an AI-generated image we asked Google Gemini to create based on the podcast transcript.
 
-<img src="https://paloma-guth.github.io/ethics_fall2025/images/dataViz-podcast3.png" height="300">
+<img src="https://paloma-guth.github.io/ethics_fall2025/images/dataViz-podcast3.png" height="200">
 
-<img src="https://paloma-guth.github.io/ethics_fall2025/images/geminiDataViz-podcast3.png" height="300">
+<img src="https://paloma-guth.github.io/ethics_fall2025/images/geminiDataViz-podcast3.png" height="200">
 
 You can also find the full audio transcript [here](https://drive.google.com/file/d/1VyALopSfy8uXLlDYokhW_wlgQlCDJauS/view?usp=sharing)

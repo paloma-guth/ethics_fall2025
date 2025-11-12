@@ -2,8 +2,8 @@
 title: "Podcast 4: Black Mirror Writers’ Room"
 collection: podcasts
 permalink: /podcasts/podcast4
-excerpt: "Exploring how tech have reshaped what it means to truly own something in the digital age."
-date: 2025-10-28
+excerpt: "Talks on how near-future technologies challenge ethics, empathy, and our connection to reality."
+date: 2025-11-12
 audio: ethics_fall2025/files/Fitian_Guth_podcast4.mp3
 video: ethics_fall2025/files/Fitian_Guth_podcast4.mp4
 ---

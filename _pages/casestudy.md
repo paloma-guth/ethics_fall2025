@@ -44,7 +44,7 @@ Virtual influencers extend beyond visual appeal; they construct narrative identi
 
 Virtual influencers do more than just look perfect, they create a sense of connection with their audience, even though that connection is one-sided. Parasocial theory (Bowlby, 1982) explains how people can feel emotionally attached to media figures without any real interaction. On platforms like Instagram, followers of virtual influencers like Lil Miquela, Imma, and Lucy often feel like they “know” these personas, they follow their updates, comment on their posts, and engage with their lives as if they were real people (Bond, 2019).
 
-[Continue reading](ethics_fall2025/casestudy/parasocial_subsection.md)
+[Continue reading](ethics_fall2025/_casestudy/parasocial_subsection.md)
 
 ### Impact on Self-Image
 The hyperreal aesthetics and curated narratives of AI influencers have serious implications on body image, self-esteem, and psychological well-being. Virtual influencers are designed with idealized, youthful, and symmetrical features, often surpassing the limitations of human appearance. Research shows that such portrayals can exacerbate body dissatisfaction and create a sense of “digitized dysmorphia,”(search more about this topic) wherein individuals measure themselves against unattainable digital standards (Coy-Dibley, 2016; Huang et al., 2020).
@@ -69,8 +69,8 @@ This shows the growing cultural significance of digitally mediated femininity an
 
 ## Discussion Questions and Activities
 
-[Go to activities](ethics_fall2025/casestudy/activity.md)
+[Go to activities](ethics_fall2025/_casestudy/activity.md)
 
 ## Bibliography
 
-[See references](ethics_fall2025/casestudy/citations.md)
+[See references](ethics_fall2025/_casestudy/citations.md)

@@ -3,6 +3,8 @@ title: "Citations"
 layout: default
 ---
 
+**Add the others**
+
 Chiu, Candy Lim, and Han-Chiang Ho. 2023. “Impact of Celebrity, Micro-Celebrity, and Virtual Influencers on Chinese Gen Z’s Purchase Intention through Social Media.” SAGE Open 13 (1): 215824402311640. https://doi.org/10.1177/21582440231164034.
 
 ‌Ji, Qihang, Lanlan Linghu, and Fei Qiao. 2022. “The Beauty Myth of Virtual Influencers: A Reflection of Real-World Female Body Image Stereotypes.” Www.atlantis-Press.com. Atlantis Press. July 11, 2022. https://doi.org/10.2991/assehr.k.220704.142.

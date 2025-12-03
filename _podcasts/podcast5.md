@@ -3,7 +3,7 @@ title: "Podcast 5: This Is Your Brain on Memes"
 collection: podcasts
 permalink: /podcasts/podcast5
 excerpt: "Talks on how meme culture shapes interpretation, communication, and meaning-making."
-date: 2025-11-12
+date: 2025-12-03
 audio: ethics_fall2025/files/fitianGuth-audio-podcast5.mp3
 video: ethics_fall2025/files/fitianGuth-video-podcast5.mp4
 ---

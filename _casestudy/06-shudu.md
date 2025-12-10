@@ -4,7 +4,7 @@ author_profile: true
 layout: single
 
 collection: casestudy
-permalink: /casestudy/shudu
+permalink: /casestudy/shudu/
 ---
 
 Interssectionality

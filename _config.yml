@@ -277,6 +277,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _casestudy
+  - scope:
+      path: ""
+      type: casestudy
+    values:
+      layout: podcasts
+      author_profile: true
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""

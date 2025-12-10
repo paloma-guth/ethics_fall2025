@@ -1,7 +1,11 @@
 ---
 title: "Lil Miquela"
-layout: default
 author_profile: true
+layout: single
+
+collection: casestudy
+permalink: /casestudy/
+nav_order: 4
 ---
 
 Abuse story

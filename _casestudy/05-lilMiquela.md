@@ -4,8 +4,7 @@ author_profile: true
 layout: single
 
 collection: casestudy
-permalink: /casestudy/
-nav_order: 4
+permalink: /casestudy/lilMiquela/
 ---
 
 Abuse story

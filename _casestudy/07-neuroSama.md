@@ -4,8 +4,7 @@ author_profile: true
 layout: single
 
 collection: casestudy
-permalink: /casestudy/
-nav_order: 6
+permalink: /casestudy/neuroSama/
 ---
 
 42% of respondents found virtual influencers "fascinating," appreciating their unique aesthetics. However, 35% expressed concerns about the authenticity** of virtual influencers, feeling that their artificial nature undermines genuine connections.

@@ -4,8 +4,7 @@ author_profile: true
 layout: single
 
 collection: casestudy
-permalink: /casestudy/
-nav_order: 2
+permalink: /casestudy/business/
 ---
 
 Virtual Influencers (VIs) represent a transformative marketing innovation: a brand-safe, scalable, and endlessly malleable asset. The ROI potential is compelling. Yet, beneath the flawless CGI surface lie profound strategic risks that can erode brand equity, invite regulatory scrutiny, and spark lasting reputational crises. This page moves beyond the hype to provide a clear-eyed analysis of the opportunities, liabilities, and ethical imperatives for deploying AI-coded femininity.

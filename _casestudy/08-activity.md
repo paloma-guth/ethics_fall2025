@@ -4,8 +4,7 @@ author_profile: true
 layout: single
 
 collection: casestudy
-permalink: /casestudy/
-nav_order: 7
+permalink: /casestudy/activity/
 ---
 
 Design your AI influences

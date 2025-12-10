@@ -4,8 +4,7 @@ author_profile: true
 layout: single
 
 collection: casestudy
-permalink: /casestudy/
-nav_order: 1
+permalink: /casestudy/consumer/
 ---
 
 Imagine you are just scrolling through Instagram or any other social media after a tirring day at work or at school and you find a new person: flawless skin, perfect outfit, living a life that looks like a dream. You feel that familiar feeling, a mix of envy and insecurity. Then you spot the tiny hashtag, hidden under many other tags: `#VirtualInfluencer`. She's not real. She’s code.

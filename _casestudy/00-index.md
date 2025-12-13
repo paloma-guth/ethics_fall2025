@@ -7,26 +7,31 @@ collection: casestudy
 permalink: /casestudy/
 nav_order: 0
 ---
+## Abstract
+This case study critically examines how corporate designed personas are systematically encoding and commodifying femininity through virtual assistants and hyperreal influencers. It argues that digital colonization of gender reinforces narrow stereotypes, increases mental health risks like digitized dysmorphia, and transforms identity into a marketable asset. By analyzing the interplay of technology, capitalism, and social power, the paper questions the possibility of gender liberation within a system where algorithmic ideals are optimized for profit over human diversity.
+
+**Key words:** Artificial Intelligence, Virtual Influencers, Digital Femininity, Algorithmic Bias, Commodification of Identity, Parasocial Relationships, Digitized Dysmorphia
+
+## Learning Objectives
+
+1. **Analyze** how artificial intelligence encodes, performs, and commodifies gendered identities, with a specific focus on femininity.
+2. **Critique** the socio-economic players behind the creation of virtual influencers through the lenses of Marxist, feminist, and critical theories.
+3. **Evaluate** the psychosocial impact of algorithmically crafted beauty standards and parasocial relationships on self-image, particularly among young and vulnerable demographics.
+4. **Identify** the key stakeholders in the virtual influencer ecosystem and articulate their conflicting interests, potential benefits, and primary risks.
+
 ## Introduction
 
 The rise of AI-generated personas in social media and digital culture has changed the ways in which gender is represented and consumed. Female coded AI systems, from virtual assistants like Siri to hyperreal social media influencers such as Lil Miquela, Imma, Lucy, and Shudu, tend to attract higher engagement and commercial attention, serving as tools for brands to increase profit. Companies deliberately design these personas to meet brand objectives, often perpetuating narrow ideals of femininity while reinforcing pre-existing social and cultural biases. This raises fundamental questions: Can gender be programmed without reproducing stereotypes? And how does this shape audience identity and self-perception, especially among younger users?
+
+Unlike earlier forms of digital ideation of beauty, which relied on Photoshop, filters, and cosmetic enhancements, AI influencers present a level of hyperrealism previously unattainable. Virtual influencers are not simply visual avatars; they are meticulously crafted digital beings with narratives, personalities, and social presence, designed to evoke engagement and emotional attachment. As these figures grow more ubiquitous, understanding their influence on gender norms, body image, and social perception becomes critical to try to mitigate their potential negative effects on younger generations. AI is being used as a tool for the digital colonization of gender, raising the question of whether true gender liberation is possible when the most pervasive cultural images of femininity are meticulously crafted by corporate algorithms and optimized for market appeal.
+
+This case study examines how AI systems encode and perform femininity, highlighting the objectification and commodification of the female form in the digital age. It explores the sociological, psychological, and ethical implications of these digital personas. It focuses on the mechanisms of gender coding in AI, the commercialization of femininity through virtual influencers, the resulting effects on self-image, and contrasts between human-mediated and autonomous AI performances of gender.
 
 **Looking for a different perspective?** This case study examines how AI shapes definitions of femininity, such a topic is relevant to multiple audiences.
 
 - **[Academic View:](https://paloma-guth.github.io/ethics_fall2025/casestudy/)** Sociological and ethical frameworks. **(You are here)**
 - **[Consumer View:](https://paloma-guth.github.io/ethics_fall2025/casestudy/consumer)** Impacts on self-image and identity
 - **[Business View:](https://paloma-guth.github.io/ethics_fall2025/casestudy/business)** Brand risks and compliance considerations
-
-Unlike earlier forms of digital ideation of beauty, which relied on Photoshop, filters, and cosmetic enhancements, AI influencers present a level of hyperrealism previously unattainable. Virtual influencers are not simply visual avatars; they are meticulously crafted digital beings with narratives, personalities, and social presence, designed to evoke engagement and emotional attachment. As these figures grow more ubiquitous, understanding their influence on gender norms, body image, and social perception becomes critical to try to mitigate their potential negative effects on younger generations. AI is being used as a tool for the digital colonization of gender, raising the question of whether true gender liberation is possible when the most pervasive cultural images of femininity are meticulously crafted by corporate algorithms and optimized for market appeal.
-
-This case study examines how AI systems encode and perform femininity, highlighting the objectification and commodification of the female form in the digital age. It explores the sociological, psychological, and ethical implications of these digital personas. It focuses on the mechanisms of gender coding in AI, the commercialization of femininity through virtual influencers, the resulting effects on self-image, and contrasts between human-mediated and autonomous AI performances of gender.
-
-## Learning Objectives
-
-1. **Analyze** how artificial intelligence encodes, performs, and commodifies gendered identities, with a specific focus on femininity.<br>
-2. **Critique** the socio-economic players behind the creation of virtual influencers through the lenses of Marxist, feminist, and critical theories.<br>
-3. **Evaluate** the psychosocial impact of algorithmically crafted beauty standards and parasocial relationships on self-image, particularly among young and vulnerable demographics.<br>
-4. **Identify** the key stakeholders in the virtual influencer ecosystem and articulate their conflicting interests, potential benefits, and primary risks.
 
 ## Coded Femininity
 
@@ -145,10 +150,13 @@ Therefore, the path forward requires a concerted, multi-front engagement:
 In conclusion, the answer to whether true gender liberation is possible when femininity is crafted by corporate algorithms is a resounding “no”, not under the current conditions of unregulated corporate control. The AI influencer, in her flawless, silent perfection, is a warning. She is the harbinger of a future where identity itself becomes a branded product. The challenge now is not merely to critique the code, but to seize the means of representation. We must fight to ensure digital spaces become spaces for the exploration of authentic. For if we do not, the most pervasive mirror society holds up to women and girls will be one programmed to sell to them, not to see them.
 
 ## Activity
+
 Hands-on applications of the case study concepts. [Click here](https://paloma-guth.github.io/ethics_fall2025/casestudy/activity/)
 
 ## Discussion Questions
+
 Explore critical questions to deepen your understanding. [Click here](https://paloma-guth.github.io/ethics_fall2025/casestudy/questions/)
 
 ## Bibliography
-View the complete reference list.[Click here](https://paloma-guth.github.io/ethics_fall2025/casestudy/citations/)
+
+View the complete reference list. [Click here](https://paloma-guth.github.io/ethics_fall2025/casestudy/citations/)

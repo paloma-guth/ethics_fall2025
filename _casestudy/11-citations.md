@@ -7,7 +7,7 @@ collection: casestudy
 permalink: /casestudy/citations/
 ---
 
-**Add the others**
+
 
 Chiu, Candy Lim, and Han-Chiang Ho. 2023. “Impact of Celebrity, Micro-Celebrity, and Virtual Influencers on Chinese Gen Z’s Purchase Intention through Social Media.” SAGE Open 13 (1): 215824402311640. https://doi.org/10.1177/21582440231164034.
 
@@ -27,3 +27,9 @@ UNESCO. 2024. “Generative AI: UNESCO Study Reveals Alarming Evidence of Regres
 
 ‌Baudrillard, Jean . 2019. “Simulacra and Simulations.” Edited by Mark Poster. Stanford.edu. 2019. https://web.stanford.edu/class/history34q/readings/Baudrillard/Baudrillard_Simulacra.html.
 ‌
+
+### Case study perspectives
+
+[Academic View](https://paloma-guth.github.io/ethics_fall2025/casestudy/)<br>
+[Consumers view](https://paloma-guth.github.io/ethics_fall2025/casestudy/consumer/)<br>
+[Business view](https://paloma-guth.github.io/ethics_fall2025/casestudy/business/)

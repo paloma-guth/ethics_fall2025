@@ -15,5 +15,8 @@ You are a creative director at a brand. Your team must launch a new Virtual Infl
 3. **Mitigation Plan:** Propose two actions your brand will take to address these risks     
 4. **Debrief:** Would you launch her? Why or why not? 
 
-20 minutes of class time - what to discuss in that time
-how would you teach other students about it - beyond just telling them - activity that helps get the info across
+### Case study perspectives
+
+[Academic View](https://paloma-guth.github.io/ethics_fall2025/casestudy/)<br>
+[Consumers view](https://paloma-guth.github.io/ethics_fall2025/casestudy/consumer/)<br>
+[Business view](https://paloma-guth.github.io/ethics_fall2025/casestudy/business/)

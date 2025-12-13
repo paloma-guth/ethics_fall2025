@@ -24,3 +24,9 @@ permalink: /casestudy/questions/
 7. Looking at the different groups involved, tech companies, brands, users, human influencers, and regulators, who has the most power to improve how virtual influencers are made and used? Who faces the most potential harm? Are the people with the most power also the ones most at risk?<br>
 8. Imagine you are a policymaker. Which **one** regulatory action would be the most important to implement? What would be the biggest obstacle?<br>
 9. In the case study it is argued that AI can help create a more diverse and liberating ideas but not with the current system in place. What specific conditions (like corporate goals, design processes, or regulations) would need to be different? Do you think AI could ever be a force for challenging gender stereotypes?
+
+### Case study perspectives
+
+[Academic View](https://paloma-guth.github.io/ethics_fall2025/casestudy/)<br>
+[Consumers view](https://paloma-guth.github.io/ethics_fall2025/casestudy/consumer/)<br>
+[Business view](https://paloma-guth.github.io/ethics_fall2025/casestudy/business/)

@@ -19,7 +19,4 @@ permalink: /casestudy/stakeholders/
 
 - **Regulators & Policymakers:** Currently a largely absent stakeholder, their role is becoming increasingly urgent. They are the ones tasked with protecting the public interest but are always behind technological development. Key areas requiring intervention include protecting minors from manipulative marketing and unrealistic body standards, ensuring transparency in advertising (e.g., clear labeling of AI-generated content), and developing frameworks for fair competition and intellectual property in the digital persona economy. The current regulatory lack represents a significant risk to all other stakeholders, allowing potential harms to scale without oversight.
 
-Go to the following pages:
-- [Academic view](https://paloma-guth.github.io/ethics_fall2025/casestudy/)
-- [Business view](https://paloma-guth.github.io/ethics_fall2025/casestudy/business/)
-- [Consumer view](https://paloma-guth.github.io/ethics_fall2025/casestudy/consumer/)
+[Back to Academic View](https://paloma-guth.github.io/ethics_fall2025/casestudy/)

@@ -50,7 +50,7 @@ In an era shaped by artificial intelligence and with heightened consumer awarene
 
 ## Activity
 
-Hands-on applications of the case study concepts. [Click here] (https://paloma-guth.github.io/ethics_fall2025/casestudy/activity/)
+Hands-on applications of the case study concepts. [Click here](https://paloma-guth.github.io/ethics_fall2025/casestudy/activity/)
 
 ## Discussion Questions
 

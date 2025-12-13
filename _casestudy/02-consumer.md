@@ -76,7 +76,7 @@ You can learn more about some of these AI influencers here: [Lil Miquela](https:
 
 ## Activity
 
-Hands-on applications of the case study concepts. [Click here] (https://paloma-guth.github.io/ethics_fall2025/casestudy/activity/)
+Hands-on applications of the case study concepts. [Click here](https://paloma-guth.github.io/ethics_fall2025/casestudy/activity/)
 
 ## Discussion Questions
 

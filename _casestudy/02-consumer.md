@@ -30,13 +30,11 @@ We've long known that Photoshopped magazine models set unrealistic standards. Bu
 
 Have you seen these people? What do you think of them?
 
-![Imma Gram instagram post](https://paloma-guth.github.io/ethics_fall2025/images/imma-instagram.png) ![Lil Miquela instagram post](https://paloma-guth.github.io/ethics_fall2025/images/lilMiquela-instagram.png) ![Shudu instagram post](https://paloma-guth.github.io/ethics_fall2025/images/shudu-instagram.png)
-
 <div style="display: flex; justify-content: space-between;">
 
-<img src="https://paloma-guth.github.io/ethics_fall2025/images/imma-instagram.png" alt="Imma Gram instagram post" width="30%"/>
-<img src="https://paloma-guth.github.io/ethics_fall2025/images/lilMiquela-instagram.png" alt="Lil Miquela instagram post" width="30%"/>
-<img src="https://paloma-guth.github.io/ethics_fall2025/images/shudu-instagram.png" alt="Shudu instagram post" width="30%"/>
+<img src="https://paloma-guth.github.io/ethics_fall2025/images/imma-instagram.png" alt="Imma Gram instagram post" width="40%"/>
+<img src="https://paloma-guth.github.io/ethics_fall2025/images/lilMiquela-instagram.png" alt="Lil Miquela instagram post" width="40%"/>
+<img src="https://paloma-guth.github.io/ethics_fall2025/images/shudu-instagram.png" alt="Shudu instagram post" width="40%"/>
 
 </div>
 
